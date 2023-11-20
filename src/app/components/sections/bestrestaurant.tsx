@@ -34,7 +34,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>Burgur Kung</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -45,7 +45,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>QFC</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -56,7 +56,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>Tulo Pizza</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -67,7 +67,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>Americuns food´s</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -78,7 +78,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>Stragiatelu</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -89,7 +89,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>KGB</p>
                         </div>
                     </div>
                     <div className="flex flex-col items-center justify-center">
@@ -100,7 +100,7 @@ function BestRestaurant(){
                             alt="Picture of the author"
                         />
                         <div className="bg-primary p-1 rounded shadow -mt-4 font-bold">
-                            <p>McDunalds</p>
+                            <p>McFlurrus</p>
                         </div>
                     </div>
                 </div>
