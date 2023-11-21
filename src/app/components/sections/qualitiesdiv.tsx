@@ -3,14 +3,14 @@ import image1 from "../../../img/image9.png"
 import image2 from "../../../img/image10.png"
 import image3 from "../../../img/image11.png"
 
-function QualitiesDiv(){
-    
-    return(
+function QualitiesDiv() {
+
+    return (
         <div className="flex flex-col items-center justify-center mt-20">
             <div className="text-center">
                 <p className="text-4xl font-extrabold">Everything you want.</p>
-                <div className="grid grid-cols-3 gap-20 p-20">
-                <div className="flex flex-col items-center justify-center">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-20 p-20">
+                    <div className="flex flex-col items-center justify-center">
                         <Image className="rounded-full"
                             src={image1}
                             width={200}
@@ -47,7 +47,13 @@ function QualitiesDiv(){
                         </div>
                     </div>
                 </div>
+                <div className="mb-10">
+                    <button className="btn btn-secondary rounded-full border-none px-12">See all features</button>
+                </div>
             </div>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+                <path fill="#FFD900" fillOpacity="1" d="M0,128L60,122.7C120,117,240,107,360,90.7C480,75,600,53,720,74.7C840,96,960,160,1080,176C1200,192,1320,160,1380,144L1440,128L1440,320L1380,320C1320,320,1200,320,1080,320C960,320,840,320,720,320C600,320,480,320,360,320C240,320,120,320,60,320L0,320Z"></path>
+            </svg>
         </div>
     )
 }

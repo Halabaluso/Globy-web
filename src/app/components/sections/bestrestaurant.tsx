@@ -14,7 +14,7 @@ function BestRestaurant(){
         <div className="flex flex-col items-center justify-center">
             <div className="text-center">
                 <p className="text-4xl font-extrabold">Food in your home and much more</p>
-                <div className="grid grid-cols-4 gap-20 p-20">
+                <div className="grid grid-cols-2 md:grid-cols-4 md:gap-20 md:p-20 p-10 gap-10">
                     <div className="flex flex-col items-center justify-center">
                         <Image className="rounded-full"
                             src={image1}
